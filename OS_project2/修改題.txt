@@ -1,0 +1,6 @@
+修改題(25%)：
+兩題輸入檔都是input.txt
+(1)10分：(A-output.txt)
+   將FIFO改成LIFO，後進先出可搶奪若Arrival Time相同，則依ProcessID由大至小依序處理。
+(2)15分：(B-output.txt)
+   Priority排程改成不可搶奪。若Priority及Arrival Time均相同，則依ProcessID由大至小依序處理。
