@@ -1,0 +1,5 @@
+(1)output2(LFU+FIFO).txt
+讀入input2.txt檔，在LFU的counter一樣時用FIFO判斷。
+
+(2)output3(MFU+LIFO).txt
+讀入input3.txt檔，在MFU的counter一樣時用LIFO判斷。
